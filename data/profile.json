@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/f28c9e7fd15ab6674d77f1a270b40ac6f425d079assets/img/icons/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/f28c9e7fd15ab6674d77f1a270b40ac6f425d079assets/img/icons/tools/java.svg"
+        "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/f28c9e7fd15ab6674d77f1a270b40ac6f425d079/assets/img/icons/tools/java.svg"
       },
       {
         "name": "AWS",
-        "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/f28c9e7fd15ab6674d77f1a270b40ac6f425d079assets/img/icons/tools/aws.svg"
+        "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/f28c9e7fd15ab6674d77f1a270b40ac6f425d079/assets/img/icons/tools/aws.svg"
       }
     ],
     "softSkills": [
-      "Empatia",
+      
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
