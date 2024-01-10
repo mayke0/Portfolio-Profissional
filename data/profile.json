@@ -51,9 +51,9 @@
   ],
   "professionalExperience": [
     {
-      "name": "nenhum",
-      "period": "nenhum",
-      "description": "nenhum"
+      "name":"", 
+      "period":"",
+      "description": ""
     }
 
   ]
