@@ -14,23 +14,8 @@
       {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
+      
     ],
     "softSkills": [
       "Empatia",
@@ -49,13 +34,17 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/mayke0/Pokedex.git",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/mayke0/Portfolio-Profissional.git",
       "github": true
+    },
+    {
+      "name":"Criando uma loja online"
+      "url": "https://github.com/mayke0/Intensivao-de-JavaScript.git"
     }
   ],
   "professionalExperience": [
