@@ -39,10 +39,24 @@ function updateLanguages(profile){
     languages.innerHTML = profile.languages.map(language => `<li${language}</li>`).join('')
 }
 
+function updatePortfolio(profile){
+    const portfolio = document.getElementById('profile.portfolio')
+    portfolio.innerHTML = profile.portfolio.map(project =>{
+        return`
+        <li>
+            <h3 ${project.github ? 'classe="github"' : ''}>${project.name}</h3>
+            <a href="${project.url}" target="_blank">${project.url}</a>
+        </li>
+            
+        `
+    }).join('')
+}
+
 (async () =>{
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
+    updatePortfolio(profileData)
 })()
