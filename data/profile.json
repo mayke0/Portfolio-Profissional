@@ -4,7 +4,7 @@
   "job": "Junior Developer",
   "location": "Nilópolis - RJ",
   "phone": "(21) 99999-9999",
-  "email": "mayke@gmail.com",
+  "email": "mayke2_0@yahoo.com",
   "skills": {
     "hardSkills": [
       {
@@ -18,6 +18,10 @@
       {
         "name": "AWS",
         "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/f28c9e7fd15ab6674d77f1a270b40ac6f425d079/assets/img/icons/tools/aws.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/mayke0/Portfolio-Profissional/ed4d90f804e23256cec2d4dafdbe997b5e15c910/assets/img/icons/tools/js.svg"
       }
     ],
     "softSkills": [
